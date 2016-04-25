@@ -1,5 +1,5 @@
 import classNames from 'classnames';
-import style from 'hover.css/scss/hover';
+import style from 'hover.css/scss/hover.scss';
 
 function identity(t) { return t; }
 
