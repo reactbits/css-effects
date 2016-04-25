@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/reactbits/css-effects#readme",
   "dependencies": {
-    "classnames": "^2.2.3",
+    "classnames": "^2.2.4",
     "hint.css": "^2.2.1",
     "hover.css": "^2.0.2",
     "react": "^15.0.1"
