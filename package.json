@@ -1,6 +1,6 @@
 {
   "name": "css-effects",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Collection of functions to easily inlude CSS styles to your react components.",
   "main": "lib/index.js",
   "scripts": {
