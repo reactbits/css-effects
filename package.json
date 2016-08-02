@@ -24,6 +24,6 @@
     "react": "^15.3.0"
   },
   "devDependencies": {
-    "react-devpack": "^0.1.48"
+    "react-devpack": "^0.1.49"
   }
 }
