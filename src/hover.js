@@ -4,6 +4,6 @@ import style from 'hover.css/scss/hover.scss';
 function identity(t) { return t; }
 
 export default function hover(...effects) {
-	const classList = effects.filter(identity).map(name => style[`hvr-${name}`]);
-	return classNames(...classList);
+  const classList = effects.filter(identity).map(name => style[`hvr-${name}`]);
+  return classNames(...classList);
 }

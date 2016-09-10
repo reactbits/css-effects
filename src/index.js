@@ -1,6 +1,2 @@
-import hint from './hint';
-import hover from './hover';
-export {
-	hint,
-	hover,
-};
+export { default as hint } from './hint';
+export { default as hover } from './hover';

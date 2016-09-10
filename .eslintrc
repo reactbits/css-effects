@@ -9,8 +9,9 @@
 
   "rules": {
     "id-length": 0,
-    "indent": [2, "tab"],
+    "indent": ["error", 2, {"SwitchCase": 1}],
     "no-console": 0,
-    "func-names": 0
+    "func-names": 0,
+    "linebreak-style": 0
   }
 }
