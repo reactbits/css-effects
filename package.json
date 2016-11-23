@@ -21,7 +21,7 @@
     "classnames": "^2.2.5",
     "hint.css": "^2.4.1",
     "hover.css": "^2.0.2",
-    "react": "^15.4.0"
+    "react": "^15.4.1"
   },
   "devDependencies": {
     "react-devpack": "^0.2.1"
