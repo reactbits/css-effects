@@ -20,7 +20,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "hint.css": "^2.4.1",
-    "hover.css": "^2.0.2",
+    "hover.css": "^2.1.1",
     "react": "^15.4.2"
   },
   "devDependencies": {
